@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Software Development and Machine Learning
 - 👯 I’m looking to collaborate on Open Source Machine Learning Projects
 - 📫 How to reach me: Abdelrahmansalem16@gmail.com
+- My kaggle profile: https://www.kaggle.com/abdelrahmansalem9
 
 <h2> Programming Languages 🖥️ </h2>
 <p align="left">
